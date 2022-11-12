@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		83AD912B291F667B00C09CEB /* RulesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83AD912A291F667B00C09CEB /* RulesVC.swift */; };
 		83F8BCBD291DD3EF00D27087 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F8BCBC291DD3EF00D27087 /* AppDelegate.swift */; };
 		83F8BCBF291DD3EF00D27087 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F8BCBE291DD3EF00D27087 /* SceneDelegate.swift */; };
 		83F8BCC6291DD3F000D27087 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83F8BCC5291DD3F000D27087 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		83AD912A291F667B00C09CEB /* RulesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVC.swift; sourceTree = "<group>"; };
 		83F8BCB9291DD3EF00D27087 /* CardWorkout-Programmatic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CardWorkout-Programmatic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83F8BCBC291DD3EF00D27087 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		83F8BCBE291DD3EF00D27087 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				83F8BCBC291DD3EF00D27087 /* AppDelegate.swift */,
 				83F8BCBE291DD3EF00D27087 /* SceneDelegate.swift */,
 				83F8BCD0291DE28100D27087 /* CardSelectionVC.swift */,
+				83AD912A291F667B00C09CEB /* RulesVC.swift */,
 				83F8BCD2291DE5A100D27087 /* CWButton.swift */,
 				83F8BCC5291DD3F000D27087 /* Assets.xcassets */,
 				83F8BCC7291DD3F000D27087 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83F8BCBD291DD3EF00D27087 /* AppDelegate.swift in Sources */,
+				83AD912B291F667B00C09CEB /* RulesVC.swift in Sources */,
 				83F8BCBF291DD3EF00D27087 /* SceneDelegate.swift in Sources */,
 				83F8BCD1291DE28100D27087 /* CardSelectionVC.swift in Sources */,
 				83F8BCD3291DE5A100D27087 /* CWButton.swift in Sources */,
